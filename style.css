@@ -1,0 +1,70 @@
+.square{
+	width: 30%;
+	background-color: purple;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+	border-radius: 15%;
+	transition:background 0.6s;
+}
+#block{
+	margin: 0 auto;
+	max-width: 600px;
+}
+body{
+	background-color: #232323;
+	font-family: "montserrat";
+	margin: 0;
+}
+.d1{
+	background-color:white;
+	text-align: center;
+}
+h1{
+	text-align: center;
+	margin: 0;
+	background-color: steelblue;
+	color: white;
+	line-height: 1.1;
+	text-transform: uppercase;
+	font-weight: normal;
+	padding: 20px;
+}
+.try{
+	display:inline-block;
+	width: 20%;
+	font-size: inherit;
+	color: steelblue;
+	font-weight: 700;
+	text-transform: uppercase;
+	margin: 0;
+	height:100%;
+}
+
+button{
+	text-transform: uppercase;
+	border: none;
+	background:none;
+	margin: 0;
+	font-weight: 700;
+	height:100%;
+	font-size: inherit;
+	color: steelblue;
+	transition: all 0.3s;
+	outline: none;
+}
+button:hover{
+	color: white;
+	background-color:steelblue;
+}
+.head{
+	font-size: 200%;
+}
+.easy:hover{
+	color: steelblue;
+	background-color:white;
+}
+.hard:hover{
+	color: steelblue;
+	background-color:white;
+}
